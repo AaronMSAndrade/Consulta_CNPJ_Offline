@@ -9,7 +9,9 @@ filtros de empresas por: Estado, cidade, CNAE, ativo/inativo e porte.
 
 Como os arquivos da Receita Federal são grandes e gerados localmente, antes de rodar os scripts de importação, você precisa criar duas pastas na raiz do diretório do projeto:
 
-arquivos_receita : Onde você colocará os arquivos .csv originais da Receita.
+arquivos_receita : Onde você colocará os arquivos .csv originais da Receita disponiveis no link abaixo:
+
+arquivos.receitafederal.gov.br/index.php/s/YggdBLfdninEJX9
 
 data : Onde o banco de dados processado será armazenado (~50 GB).
 
