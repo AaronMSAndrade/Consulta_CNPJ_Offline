@@ -23,14 +23,6 @@ seu-repositorio/
 
 └── ...
 
-🚀 Como Usar no Dia a Dia
-
-Dê dois cliques em iniciar.bat.
-
-O navegador abrirá automaticamente em http://localhost:8000.
-
-Para fechar, basta dar dois cliques em encerrar.bat.
-
 🛠️ Atualização e Configuração Inicial da Base:
 
 Coloque os arquivos CSVs na pasta arquivos_receita e execute no PowerShell:
@@ -40,3 +32,11 @@ python importar.py
 python preparar.py
 
 python otimizar.py
+
+🚀 Como Usar no Dia a Dia
+
+Dê dois cliques em iniciar.bat.
+
+O navegador abrirá automaticamente em http://localhost:8000.
+
+Para fechar, basta dar dois cliques em encerrar.bat.
