@@ -11,9 +11,13 @@ arquivos_receita: Onde você colocará os arquivos .csv originais da Receita.
 data: Onde o banco de dados processado será armazenado (~50 GB).
 
 seu-repositorio/
+
 ├── arquivos_receita/  <-- Crie esta pasta e coloque os CSVs aqui
+
 ├── data/              <-- Crie esta pasta vazia para o banco de dados
+
 ├── iniciar.bat
+
 └── ...
 
 
